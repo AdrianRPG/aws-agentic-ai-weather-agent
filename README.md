@@ -631,6 +631,17 @@ The guided workshop architecture and starter implementation provided the foundat
 
 ---
 
+## Contributors
+
+This project was completed collaboratively during the AWS: Agentic AI Building Blocks workshop at ShellHacks at Florida International University.
+
+- [Adrian Perez Galindo](https://github.com/AdrianRPG)
+- [Diego Rios](https://github.com/alessandrorioslazo-collab)
+- [Boris Mino](https://github.com/StBoris04)
+- [Piero Espinoza](https://github.com/PieroEB)
+
+---
+
 ## Source & Attribution
 
 The original **AWS Agentic AI Building Blocks** workshop materials, architecture, and guided implementation were provided by AWS.
